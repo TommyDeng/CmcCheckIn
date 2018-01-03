@@ -1,0 +1,69 @@
+请求网址: 	http://cniidds02:8020/User/Login
+请求方法： 	POST
+状态码： 	HTTP/1.1 302 Found
+请求头 12:40:23.000
+User-Agent:	Mozilla/5.0 (Windows NT 5.1; rv:26.0) Gecko/20100101 Firefox/26.0
+Referer:	http://cniidds02:8020/User/Login
+Host:	cniidds02:8020
+Connection:	keep-alive
+Accept-Language:	zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding:	gzip, deflate
+Accept:	text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+已发送表单数据
+UserName:	txdeng
+SavePwd:	true
+SavePwd:	false
+PassWord:	Aa123456
+响应头 Δ16ms
+X-Powered-By:	ASP.NET
+X-AspNetMvc-Version:	3.0
+X-AspNet-Version:	4.0.30319
+Server:	Microsoft-IIS/7.5
+Location:	/
+Date:	Thu, 20 Mar 2014 04:40:24 GMT
+Content-Type:	text/html; charset=utf-8
+Content-Length:	118
+Cache-Control:	private
+收到的 Cookie
+CheckOn:	AAEAAAD/////AQAAAAAAAAAMAgAAAEpDaWduYS5DaGVja09uLk1vZGVsLCBWZXJzaW9uPTEuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAAHkNpZ25hLkNoZWNrT24uTW9kZWwuVXNlcnNNb2RlbA4AAAAXPEVuTmFtZT5rX19CYWNraW5nRmllbGQXPENuTmFtZT5rX19CYWNraW5nRmllbGQbPERvbWFpbk5hbWU+a19fQmFja2luZ0ZpZWxkGTxQYXNzV29yZD5rX19CYWNraW5nRmllbGQVPERlcHQ+a19fQmFja2luZ0ZpZWxkGDxJc0FkbWluPmtfX0JhY2tpbmdGaWVsZBs8UmVQYXNzV29yZD5rX19CYWNraW5nRmllbGQeQmFzZU9iamVjdCs8SUQ+a19fQmFja2luZ0ZpZWxkJkJhc2VPYmplY3QrPENyZWF0ZVRpbWU+a19fQmFja2luZ0ZpZWxkJUJhc2VPYmplY3QrPENyZWF0ZU1hbj5rX19CYWNraW5nRmllbGQkQmFzZU9iamVjdCs8RWRpdFRpbWU+a19fQmFja2luZ0ZpZWxkI0Jhc2VPYmplY3QrPEVkaXRNYW4+a19fQmFja2luZ0ZpZWxkI0Jhc2VPYmplY3QrPElzVmFsaWQ+a19fQmFja2luZ0ZpZWxkIkJhc2VPYmplY3QrPExpbmVObz5rX19CYWNraW5nRmllbGQBAQEBAwEBAwADAwMBAAtTeXN0ZW0uR3VpZAtTeXN0ZW0uR3VpZA0LU3lzdGVtLkd1aWRxU3lzdGVtLk51bGxhYmxlYDFbW1N5c3RlbS5EYXRlVGltZSwgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV0LU3lzdGVtLkd1aWQIAgAAAAYDAAAABnR4ZGVuZwYEAAAACemCk+a4heS/igoGBQAAACBuY0czQzIxZWZwQ3NTM1p2SXM0UTI1VVBua3o1TStsbQT6////C1N5c3RlbS5HdWlkCwAAAAJfYQJfYgJfYwJfZAJfZQJfZgJfZwJfaAJfaQJfagJfawAAAAAAAAAAAAAACAcHAgICAgICAgIAAAAAAAAAAAAAAAAAAAAABgcAAAABTgoB+P////r///+2MQI4u65mQaCni71J0Key8HfYtj8S0QgB9/////r///+ZCobxY5lDR61fJbdCEQatCgH2////+v///wAAAAAAAAAAAAAAAAAAAAAGCwAAAAFZAAAAAAs=
+
+
+
+
+
+
+
+请求网址: 	http://cniidds02:8020/Home/OffDutyCheck
+请求方法： 	POST
+状态码： 	HTTP/1.1 200 OK
+请求头 15:10:43.000
+X-Requested-With:	XMLHttpRequest
+User-Agent:	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0
+Referer:	http://cniidds02:8020/
+Pragma:	no-cache
+Host:	cniidds02:8020
+Content-Length:	0
+Connection:	keep-alive
+Cache-Control:	no-cache
+Accept-Language:	zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding:	gzip, deflate
+Accept:	text/plain, */*; q=0.01
+发送 Cookie
+CheckOnNew:	AAEAAAD/////AQAAAAAAAAAMAgAAAE1DaWduYS5BdHRlbmRhbmNlLk1vZGVsLCBWZXJzaW9uPTEuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAAIUNpZ25hLkF0dGVuZGFuY2UuTW9kZWwuVXNlcnNNb2RlbA8AAAAXPEVuTmFtZT5rX19CYWNraW5nRmllbGQZPFBhc3NXb3JkPmtfX0JhY2tpbmdGaWVsZBc8Q25OYW1lPmtfX0JhY2tpbmdGaWVsZBs8RG9tYWluTmFtZT5rX19CYWNraW5nRmllbGQYPEdyb3VwSUQ+a19fQmFja2luZ0ZpZWxkHjxJc0dyb3VwTGVhZGVyPmtfX0JhY2tpbmdGaWVsZBg8SXNBZG1pbj5rX19CYWNraW5nRmllbGQWPEVNYWlsPmtfX0JhY2tpbmdGaWVsZB5CYXNlT2JqZWN0KzxJRD5rX19CYWNraW5nRmllbGQmQmFzZU9iamVjdCs8Q3JlYXRlVGltZT5rX19CYWNraW5nRmllbGQlQmFzZU9iamVjdCs8Q3JlYXRlTWFuPmtfX0JhY2tpbmdGaWVsZCRCYXNlT2JqZWN0KzxFZGl0VGltZT5rX19CYWNraW5nRmllbGQjQmFzZU9iamVjdCs8RWRpdE1hbj5rX19CYWNraW5nRmllbGQjQmFzZU9iamVjdCs8SXNWYWxpZD5rX19CYWNraW5nRmllbGQiQmFzZU9iamVjdCs8TGluZU5vPmtfX0JhY2tpbmdGaWVsZAEBAQEDAQEBAwADAwMBAAtTeXN0ZW0uR3VpZAtTeXN0ZW0uR3VpZA0LU3lzdGVtLkd1aWRxU3lzdGVtLk51bGxhYmxlYDFbW1N5c3RlbS5EYXRlVGltZSwgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV0LU3lzdGVtLkd1aWQIAgAAAAYDAAAABnR4ZGVuZwoGBAAAAAnpgpPmuIXkv4oGBQAAAApjbWNcdHhkZW5nBPr///8LU3lzdGVtLkd1aWQLAAAAAl9hAl9iAl9jAl9kAl9lAl9mAl9nAl9oAl9pAl9qAl9rAAAAAAAAAAAAAAAIBwcCAgICAgICAgAAAAAAAAAAAAAAAAAAAAAKBgcAAAABTgYIAAAAF3RvbW15LmRlbmdAY2lnbmFjbWIuY29tAff////6////tjECOLuuZkGgp4u9SdCnsvB32LY/EtEIAfb////6////mQqG8WOZQ0etXyW3QhEGrQoB9f////r///8AAAAAAAAAAAAAAAAAAAAABgwAAAABWQAAAAAL
+响应头 Δ62ms
+X-Powered-By:	ASP.NET
+X-AspNetMvc-Version:	3.0
+X-AspNet-Version:	4.0.30319
+Vary:	Accept-Encoding
+Server:	Microsoft-IIS/7.5
+Date:	Wed, 09 Apr 2014 07:10:41 GMT
+Content-Type:	text/html; charset=utf-8
+Content-Length:	122
+Content-Encoding:	gzip
+Cache-Control:	private
+响应主体 Δ0ms
+OK
+
+
+id:295d16fb-362b-4c0d-a532-e7c9ae83e05b
+type:end
